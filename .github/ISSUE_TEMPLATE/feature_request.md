@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new idea or improvement for Hacktoberfest-2025-infra
+about: Suggest a new idea or improvement for Hacktoberfest-infra-2025
 description: Suggest an idea for this project
 labels: enhancement
 ---
