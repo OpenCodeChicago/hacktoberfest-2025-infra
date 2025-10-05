@@ -1,6 +1,6 @@
 # Pull Request
 
-Thank you for your contribution!
+Thanks for contributing to Hacktoberfest 2025!
 
 ## Description
 
@@ -8,10 +8,8 @@ Please describe your changes and link any related issues.
 
 ## Checklist
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+- [ ] My code builds and runs locally
+- [ ] I’ve added/updated documentation if needed
+- [ ] I’ve tested my changes
+- [ ] I’ve linked related issues (if any)
+- [ ] (Optional) I’ve credited myself with the [All Contributors bot](https://allcontributors.org/docs/en/bot/usage) if this is my first contribution or a new contribution type
