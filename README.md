@@ -1,122 +1,209 @@
-# Project Template
+
+# Hacktoberfest 2025 – Infrastructure
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/project-template)](https://github.com/OpenCodeChicago/project-template/commits/main)
-[![CI](https://github.com/OpenCodeChicago/project-template/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/OpenCodeChicago/project-template/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/github/license/OpenCodeChicago/project-template)](https://github.com/OpenCodeChicago/project-template/blob/main/LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/OpenCodeChicago/project-template)](https://github.com/OpenCodeChicago/project-template/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/OpenCodeChicago/project-template)](https://github.com/OpenCodeChicago/project-template/pulls)
-[![Contributors](https://img.shields.io/github/contributors/OpenCodeChicago/project-template)](https://github.com/OpenCodeChicago/project-template/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/OpenCodeChicago/project-template?style=for-the-badge)](https://github.com/OpenCodeChicago/project-template/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OpenCodeChicago/project-template?style=for-the-badge)](https://github.com/OpenCodeChicago/project-template/network/members)
-[![Prettier](https://img.shields.io/badge/prettier-2.8.8-ff69b4.svg?style=for-the-badge&logo=prettier)](https://prettier.io/)
-[![Bash](https://img.shields.io/badge/bash-5.2-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-24.0-blue?logo=docker&style=for-the-badge)](Dockerfile)
+[![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/hacktoberfest-2025-infra)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/commits/main)
+[![License: MIT](https://img.shields.io/github/license/OpenCodeChicago/hacktoberfest-2025-infra)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/blob/main/LICENSE)
+[![CI](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/actions/workflows/ci.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/OpenCodeChicago/hacktoberfest-2025-infra/badge)](https://securityscorecards.dev/viewer/?uri=github.com/OpenCodeChicago/hacktoberfest-2025-infra)
+[![Open Issues](https://img.shields.io/github/issues/OpenCodeChicago/hacktoberfest-2025-infra)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/OpenCodeChicago/hacktoberfest-2025-infra)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/pulls)
+[![Contributors](https://img.shields.io/github/contributors/OpenCodeChicago/hacktoberfest-2025-infra)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/OpenCodeChicago/hacktoberfest-2025-infra?style=for-the-badge)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OpenCodeChicago/hacktoberfest-2025-infra?style=for-the-badge)](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/network/members)
+
+---
+
+## Welcome Hacktoberfest Contributors!
+
+This repo is part of [Open Code Chicago](https://opencodechicago.org)’s Hacktoberfest 2025 initiative.  
+Whether it’s your **first pull request** or your **50th**, you are welcome here!
+
+Contribute to real-world open source code, learn frontend development, and collaborate with a global community.
+
+### ⭐ Support the Project!
+If you like this project, please consider giving it a ⭐ on GitHub!
+More stars help us reach a wider audience, attract new contributors, and make your contributions even more visible and valuable for your portfolio or employer.
+Thank you for helping our open source community grow!
+
+
+![Hacktoberfest 2025 - Open Code Chicago](./docs/assets/hacktoberfest2025.png)
 
 ---
 
 ## Table of Contents
-
+- [Design](#design)
 - [Description](#description)
 - [Who is this for?](#who-is-this-for)
+- [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Hacktoberfest Contribution Guide](#hacktoberfest-contribution-guide)
+- [Documentation](#documentation)
+- [Contributors](#contributors)
+- [Security](#security)
 - [License](#license)
 - [Feedback](#feedback)
 - [Support](#support)
-- [Languages and Tools](#languages-and-tools)
 - [Connect with us](#connect-with-us)
 
 ---
 
 ## Description
 
-A ready-to-use template repository for quickly starting new projects. Includes essential files, recommended structure, and documentation to streamline your workflow.
+...
 
 ---
 
 ## Who is this for?
 
-This template is designed for:
+...  
 
-- **Open Code Chicago contributors** starting new community projects.
-- **Open source developers** who want a clean and consistent project structure.
+---
+
+## Tech Stack
+
+...
 
 ---
 
 ## Quick Start
 
-1. Click the **"Use this template"** button on the repository page to create a new repo.
-2. Clone your new repository:
-   ```sh
-   git clone https://github.com/your-username/your-new-repo.git
-   cd your-new-repo
-   ```
-3. (Optional) Run the setup script:
-   ```sh
-   bash setup.sh
-   ```
-4. Customize your project and update documentation as needed.
+See the [Usage Guide](docs/usage.md) for detailed setup.
 
-See [docs/setup.md](docs/setup.md) for more details.
+```bash
+# Clone the repo
+git clone https://github.com/OpenCodeChicago/hacktoberfest-2025-infra.git
+cd hacktoberfest-2025-infra
+```
+
+```bash
+# Install dependencies
+npm install
+```
 
 ---
 
 ## Features
 
-- Pre-configured documentation folder (`docs/`)
-- Example setup script (`setup.sh`)
-- Dockerfile and .dockerignore for containerization
-- Automated CI workflow with GitHub Actions (`.github/workflows/ci.yml`)
-- Code of conduct and contributing guidelines
-- Sample configuration files (`.editorconfig`, `.prettierrc`)
-- Starter changelog
+- Developer-friendly setup with **React + Vite**
+- Utility-first styling with **Tailwind CSS**
+- Preconfigured **linting & formatting** (ESLint + Prettier)
+- Automated checks via **GitHub Actions CI**
+- Community-driven with **issues & PR templates**
 
 ---
 
 ## Project Structure
 
 ```bash
-project-template/                     # GitHub project-template
-├── .github/
-│   ├── ISSUE_TEMPLATE/
+hacktoberfest-2025-frontend/                     # Main project root
+├── .github/                                     # GitHub configuration
+│   ├── ISSUE_TEMPLATE/                          # Predefined issue templates
 │   │   ├── bug_report.md
 │   │   └── feature_request.md
-│   ├── workflow/
+│   ├── workflow/                                # GitHub Actions workflows
 │   │   └── ci.yml
-│   ├── CODEOWNERS
-│   ├── dependabot.yml
-│   └── PULL_REQUEST_TEMPLATE.md
+│   ├── CODEOWNERS                               # Defines code reviewers
+│   ├── dependabot.yml                           # Automated dependency updates
+│   └── PULL_REQUEST_TEMPLATE.md                 # Standard PR template
 │
-├── docs/
-│   ├── images/
-│   ├── architecture.md
+├── docs/                                        # Project documentation
+│   ├── images/                                  # Images and assets for docs
 │   ├── faq.md
-│   ├── setup.md
 │   └── usage.md
 │
-├── .dockerignore
-├── .gitignore
-├── .prettierrc
-├── CHANGELOG.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── Dockerfile
-├── LICENSE
-├── README.md
-└── setup.sh
+├── src/                                         # Application source code
+│
+├── .all-contributorsrc                          # Config for all-contributors bot
+├── .gitignore                                   # Ignored files
+├── .prettierrc                                  # Code formatting config
+├── CODE_OF_CONDUCT.md                           # Community standards
+├── CONTRIBUTING.md                              # Contribution guidelines
+├── LICENSE                                      # License file
+├── README.md                                    # Project overview
+├── SECURITY.md                                  # Security policy
 ```
 
 ---
 
 ## Contributing
 
-We welcome contributions!
+We welcome contributions from everyone!
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started.
 
-Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting pull requests.
+---
+
+## Hacktoberfest Contribution Guide
+
+1. Fork this repository
+2. Check our [Project Board](https://github.com/orgs/OpenCodeChicago/projects/2)  
+   - Look for an issue you’d like to work on  
+   - Comment on the issue to let others know you’re taking it  
+   - Maintainers may assign you to it (to avoid duplicates)
+3. Create a new branch:
+   ```bash
+   git checkout -b my-new-feature
+   ```
+4. Make your changes (small, clear commits)
+5. Run `npm run lint` before pushing
+6. Push your branch and open a Pull Request
+   - All PRs are automatically checked for linting in CI
+   - Tip: Start with [Good First Issues](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/labels/good%20first%20issue)
+
+---
+
+## Documentation
+
+- [Usage Guide](docs/usage.md)  
+- [FAQ](docs/faq.md)  
+- [Contributing Guidelines](CONTRIBUTING.md)  
+- [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)  
+- [Code Owners](.github/CODEOWNERS)  
+- [Issue Templates](.github/ISSUE_TEMPLATE/)  
+
+---
+
+## Contributors
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://alexsmagin.dev"><img src="https://avatars.githubusercontent.com/u/107826794?v=4?s=100" width="100px;" alt="Alex Smagin"/><br /><sub><b>Alex Smagin</b></sub></a><br /><a href="https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend/commits?author=Alexandrbig1" title="Documentation">📖</a> <a href="#infra-Alexandrbig1" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-Alexandrbig1" title="Maintenance">🚧</a> <a href="#projectManagement-Alexandrbig1" title="Project Management">📆</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org) specification.  
+
+> Want to be listed here? [See how to add yourself!](./CONTRIBUTING.md#get-recognized-with-the-all-contributors-bot)
+
+Contributions of any kind welcome!
+
+---
+
+## Security
+
+This repository has the following security features enabled:
+
+- **Dependency Review Action** – warns/block PRs introducing vulnerable or malicious packages  
+- **OpenSSF Scorecard** – weekly scans for open-source best practices and supply-chain risks  
+- **Dependabot** – automated dependency updates  
+
+For details, see our [Security Policy](SECURITY.md).
 
 ---
 
@@ -128,29 +215,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-We welcome feedback and suggestions to improve the template’s functionality and usability.
+We welcome feedback and suggestions to improve the template’s functionality and usability.  
+Feel free to [open an issue](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/issues) or [start a discussion](https://github.com/OpenCodeChicago/hacktoberfest-2025-infra/discussions).  
 
 ---
 
 ## Support
 
-📧 Contact: [Email](mailto:info@opencodechicago.org).
-
-If you find this template helpful, consider supporting us:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-yellow?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/alexsmagin)
-[![Donate via PayPal](https://img.shields.io/badge/paypal-donate-blue?logo=paypal&style=for-the-badge)](https://paypal.me/alexandrsmagin)
+📧 Contact: [info@opencodechicago.org](mailto:info@opencodechicago.org)
 
 ---
 
 ## Languages and Tools
-
-<div align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-</div>
 
 ---
 
