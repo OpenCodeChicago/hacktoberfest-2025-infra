@@ -1,0 +1,15 @@
+{
+  "projectName": "hacktoberfest-2025-infra",
+  "projectOwner": "OpenCodeChicago",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
+}
